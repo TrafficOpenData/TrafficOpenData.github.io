@@ -1,0 +1,56 @@
+# Header Menu
+menu:
+  Home: /
+  Publication: /publication/
+  Data: /archives/ # can set archive-dir in root config to custom value
+  Collaboration: /collaboration/
+
+   
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true # whether or not to load the fancybox library
+
+# Integrations
+
+
+# Social
+social:
+  github: https://github.com/Traffic-Open-Data
+  twitter: https://twitter.com/
+  facebook: https://www.facebook.com/
+  rss: atom.xml
+  linkedin: https://linkedin.com/in/
+  stackoverflow: http://stackoverflow.com/
+
+# Miscellaneous
+color_scheme: red   # options: blue, gray, green, orange, red, turquoise
+favicon: /favicon.ico # path from root of hexo site
+twitter_username: computerlab_ # twitter username without the @
+default_author: Anonymous
+phone: 022-86666666
+about: Our research team conducted a series of field traffic flow experiments (including various platoon lengths and platoon speeds) to gain a deeper understanding of traffic dynamics by identifying the true origins of the puzzling traffic flow phenomena. 
+email: traffic_open_data@hotmail.com
+address_1: 92 Weijin Road
+address_2: Nankai District
+address_3: Tianjin,China
+lat: 40.715911 
+long: -73.962147
+
+# Twikoo
+twikoo:
+    enable: true
+    visitor: true
+    envID: twikoo-8gmdck36c8cd101e
+    region: ap-shanghai
+
+
+busuanzi_count:
+  enable: true
+  total_visitors: true   #统计访客数
+  total_visitors_icon: user
+  total_views: true    #统计访问数
+  total_views_icon: eye
+  post_views: true   #统计文章阅读数
+  post_views_icon: eye
